@@ -1,6 +1,8 @@
+import './App.css'
+
 function App() {
   return (
-    <div>
+    <div id="name">
       <h1>Hello! This is Prince</h1><br />
       <h2>Site is under construction</h2>
     </div>
