@@ -1,7 +1,8 @@
 function App() {
   return (
     <div>
-      <h1>hello</h1>
+      <h1>Hello! This is Prince</h1><br />
+      <h2>Site is under construction</h2>
     </div>
   )
 }
