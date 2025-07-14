@@ -1,4 +1,11 @@
-#name {
-    background-color: wheat;
+#box {
+    display: flex;
+    font-family: 'JetBrainsMono Nerd Font Mono';
+    color: #11111b;
+    background-color: #f9e2af;
     text-align: center;
+    align-items: center;
+    border-radius: 10px;
+    width: 500px;
+    flex-direction: column;
 }
